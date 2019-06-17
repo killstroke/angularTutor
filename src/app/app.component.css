@@ -1,0 +1,29 @@
+
+.col-4{
+  border: 2px solid black;
+}
+.col-4{
+  border: 2px solid red;
+}
+.box{
+  width:250px;
+  height:130px;
+  border-right:2px solid purple;
+  padding-right: 20px;
+  padding-top: 5px;
+
+}
+.flex{
+  display: flex;
+  background-color: white;
+  justify-content: space-evenly;
+  margin-top: -100px;
+  margin-left:20px;
+  margin-right:20px;
+}
+#box1{
+  height: 300px;
+  background-color: rgb(109, 92, 174);
+  text-align: center;
+  padding-top: 5%;
+}
